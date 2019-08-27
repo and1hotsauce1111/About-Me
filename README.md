@@ -70,14 +70,6 @@
 
 <hr>
 
-### PHP
-
-* 天氣預測 - 利用PHP實現動態各國天氣預測查詢
-  <br/>
-  <a href="http://phptest.web.youp.ga/weather_predict/weather_report.php" target="_blank">Demo</a>
-
-<hr>
-
 ## Future Plans
 
  * 熟練前端框架
